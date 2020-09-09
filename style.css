@@ -1,0 +1,78 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    background-color: #561786;
+}
+
+nav{
+    font-size: 14px;
+    background: white;
+}
+
+.botonalto{
+    font-size: 20px;
+
+}
+
+nav a{
+    color: black;
+}
+
+section h1{
+    color: #87e1ed;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.botonseccion{
+    background: #f66300;
+    color: white;
+    font-size: 14px;
+}
+
+
+.tarjetas{
+    margin: 30px;
+    background: #401164;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.tarjetas:hover{
+    opacity: 50%;
+}
+
+
+footer h5{
+    font-size:12px;
+}
+
+
+#piepagina1 {
+    height: 200px;
+    background: #612490;
+
+}
+
+#piepagina2{
+    background: #401164;
+    padding-top: 50px;
+    color: #c4afd4;
+}
+
+
+.socialicon{
+    color: #c4afd4;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px;
+}
+
+.copyright{
+    font-size: 12px;
+}
+
+
+
+
